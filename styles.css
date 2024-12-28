@@ -35,7 +35,7 @@ body {
 #searchBar button {
     width: 95px;
      border: 0;
-     background-color: #7F56DA;
+     background-color: blue;
      color: #fff;
      cursor: pointer;
     padding: 20PX 0;
@@ -58,7 +58,5 @@ body {
     }
 }
 span {
-    color: #7F56DA;
+    color: blue;
 }
-
-
